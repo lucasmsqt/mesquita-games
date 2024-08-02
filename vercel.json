@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "builds": [
+        {
+            "src": "api/mesquita-games.ts",
+            "use": "@vercel/node"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/mesquita-games.json",
+            "dest": "/api/mesquita-games.ts"
+        }
+    ]
+}
