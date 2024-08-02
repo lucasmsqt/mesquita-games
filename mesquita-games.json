@@ -2,12 +2,20 @@
     "name": "MesquitaGames",
     "downloads": [
         {
-           "title": "Forza Horizon 4 - Mesquita Edition",
+           "title": "Forza Horizon 4",
            "uris": [
             "magnet:?xt=urn:btih:3e20ddc1428e1d69b0ea2f8b83a96361a9cb4244&dn=c-537-f-9902741647534-f-33-fd-3-a-5-c-817-a-89-c-48-a-19-d&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601605.us.archive.org/12/items/&ws=https://archive.org/download/&ws=https://dn790006.ca.archive.org"
            ],
            "uploadDate": "2024-08-01T00:00:00Z",
-           "fileSize": "31 GB"
+           "fileSize": "31GB"
+        },
+        {
+            "title": "ELDEN RING: DELUXE EDITION (v1.12.3) (TODAS DLCS) (PT-BR) (R:DODI)",
+            "uris": [
+                "magnet:?xt=urn:btih:8ec971c8504a5524aa4bebe102c558e07bc5616f&dn=ELDEN%20RING%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cypherpunks.ru%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce"
+            ],
+            "fileSize": "70GB",
+            "uploadDate": "2024-07-04T21:08:00-08:00"
         }
     ]
 }
